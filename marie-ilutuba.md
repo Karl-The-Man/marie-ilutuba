@@ -1,0 +1,5 @@
+KLIENDI SOOV:
+
+Viskasin kiirelt kokku ühe visandi, mis minu ilutoa veebilehel võiks olla. Paigutus on pealehel päris rangelt selline nagu joonistasin. Fondid võite esialgu ise valida, taustapilt võiks olla selline heledamates toonides tapeedi moodi (krobeline, reljeefne). Muud tekstide värvid ja nuppude kujundused, äärised valige nii, et sobiksid taustaga kokku. Nupud “Hinnakiri” ja “Broneeri aeg” viivad eraldi lehele. Hinnakirja lehe malli võite ise suvaliste andmetega teha, broneerimise leht jätta praegu tegemata. Vasakus veerus on veel koht ilutoa pildi või piltide jaoks. Kui aega on rohkem, siis võiks seal olla vahetuvate piltidega galerii.
+
+Paremas tulbas kõige üleval on erinevate sotsiaalmeediate nupud: Instagram, Facebook, Tumblr. Pange sinna ilusad ikoonid, klõpsatavaks tehke hetkel ainult Tumblr ja pange sinna ühe ilusate piltidega konto link. Lisage pilt Google Mapsist minu ilutoa asukohaga (kui aega jääb üle, siis päris Google Maps kaart) ning alla ka kuvada sama aadress ning avamis- ja sulgemisajad.
